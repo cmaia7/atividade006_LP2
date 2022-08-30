@@ -23,6 +23,9 @@ int main(int argc,char **argv)
         {
                 printf("Compre o produto 'b'\n");
         }
-
+        else
+        {
+                printf("Compre o produto 'c'\n);
+        }
         return 0;
 }
